@@ -1,5 +1,5 @@
 ---
-title: Down
+permalink: /
 ---
 
 # Hey
