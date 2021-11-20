@@ -5,7 +5,10 @@ module.exports = {
   themeConfig: {
       sidebar: [
           "/",
-          "/some-other-page"
+          "/some-other-page",
+          "/core-lore",
+          "/players",
+          "/team-history"
       ],
       contributors: false,
       lastUpdated: true,
