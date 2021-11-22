@@ -4,9 +4,9 @@ permalink: /team-history/season20
 ← [Team History overview](/team-history)
 
 # Season 20
-**Win/Loss Record:** 67-32
+**Win/Loss Record:** 67-32  
 **Divisional Position:** 2nd  
-**League Position:** 6th
+**League Position:** 6th  
 **Postseason Progress: :tada: ANOTHER (OVERBRACKET) CHAMPIONSHIP WHAAAT :tada:**
 
 ## [Unbirds](https://www.blaseball.wiki/w/Unbirds)

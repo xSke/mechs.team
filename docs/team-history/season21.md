@@ -4,9 +4,9 @@ permalink: /team-history/season21
 ← [Team History overview](/team-history)
 
 # Season 21
-**Win/Loss Record:** 65-34
+**Win/Loss Record:** 65-34  
 **Divisional Position:** 1st  
-**League Position:** 4th
+**League Position:** 4th  
 **Postseason Progress:** Lost to the Hawai'i Fridays in the Overbracket Division Series
 
 ## Alto’s One-Game Debut

@@ -4,9 +4,9 @@ permalink: /team-history/season23
 ← [Team History overview](/team-history)
 
 # Season 23
-**Win/Loss Record:** 34-65
-**Divisional Position:** 6th 
-**League Position:** 24th
+**Win/Loss Record:** 34-65  
+**Divisional Position:** 6th   
+**League Position:** 24th  
 **Postseason Progress:** Un...Lost? to the Yellowstone Magic in the Mild League Underchampionship Series
 
 ## Mindy’s Baserunning
@@ -23,5 +23,6 @@ Judochop. Adelaide was placed on the Rising Stars and was notable for letting th
 now ratified stadium renovation; stables. In pitching, Addie let up a magnified 3-run play to bring the score to 25, 
 stabling two unstable players including the Legendary Chorby Soul.
 
-Did you know? [Pitching those 4 innings netted Addie the (as of S24) league-lowest Career ERA of -42.50!](https://blaseball-reference.com/players/adelaide-judochop)
-
+::: tip Did you know?
+[Pitching those 4 innings netted Addie the (as of S24) league-lowest Career ERA of -42.75!](https://blaseball-reference.com/players/adelaide-judochop)
+:::

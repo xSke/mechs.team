@@ -47,6 +47,9 @@ permalink: /team-history
 
 ### [Season 24](/team-history/season24)
 
+&nbsp;
+&nbsp;
+
 ---
 
 Enter The Core, Terminal Messages and Goodbye Fax by [@ZweiHawke](https://twitter.com/zweihawke)

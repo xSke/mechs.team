@@ -5,7 +5,7 @@ permalink: /team-history/season19
 
 # Season 19
 **Win/Loss Record:** 52-47  
-**Divisional Position:** 4nd  
+**Divisional Position:** 4th    
 **League Position:** 10th  
 
 
