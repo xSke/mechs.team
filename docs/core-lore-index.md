@@ -9,7 +9,7 @@ Also known as "Clore"
 
 ### [The Core Is Down](/core-lore/the-core-is-down)
 
-### MAXIMUM
+### [MAXIMUM](/core-lore/MAXIMUM)
 
 ## [The Core Organizations](https://www.blaseball.wiki/w/Core_Organizations)
 
@@ -26,7 +26,7 @@ Also known as "Clore"
 **S.H.A.D.O.W.S.**  
 **Other Organizations**
 
-##Locations in the Core
+## Locations in the Core
 
 ### The Core Pillar Center
 

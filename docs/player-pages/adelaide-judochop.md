@@ -6,7 +6,7 @@ permalink: /players/adelaide-judochop
 # Adelaide Judochop (She/Her)
 
 <img src="../assets/adelaideJudochop.png" style="float: right; padding-left: 10px; padding-top: 25px; padding-bottom: 25px"
-width="250">
+width="250" alt="Adelaide Judochop by WiresAndLight">
 
 
 Adelaide “Addie” Judochop joined the Core Mechanics on Season 13, Day 79, after the incineration of Ruffian Applesauce 

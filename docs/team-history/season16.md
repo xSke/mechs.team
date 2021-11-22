@@ -11,12 +11,12 @@ permalink: /team-history/season16
 
 ## Spillowtree
 
-Jolene Willowtree would pitch the ILB’s longest ever game by raw inning count, On Season 16, Day 36, at a natural record
-of 28 innings, a spillover of 19 extra innings without scoring. The game itself saw little to no scoring at an 
-unfortunate loss of 4-2 against the Hawai’i Fridays and saw a record 9 whole consecutive innings with no runners on base
-of any kind by both teams. This would only be beat by the Semi-Centennial by 1 inning, which was planned to occur that 
-season at 50 innings. This earned Jolene one of many nicknames, Jolene Spillowtree, and would eventually go on to be her
-fan-decided jersey number; 28.
+[Jolene Willowtree](/players/jolene-willowtree) would pitch the ILB’s longest ever game by raw inning count, On Season 
+16, Day 36, at a natural record of 28 innings, a spillover of 19 extra innings without scoring. The game itself saw 
+little to no scoring at an unfortunate loss of 4-2 against the Hawai’i Fridays and saw a record 9 whole consecutive 
+innings with no runners on base of any kind by both teams. This would only be beat by the Semi-Centennial by 1 inning, 
+which was planned to occur that season at 50 innings. This earned Jolene one of many nicknames, Jolene Spillowtree, 
+and would eventually go on to be her fan-decided jersey number; 28.
 
 In Season 16, Jolene Willowtree broke the record for most innings in a game. On Day 36 in a close fought game against 
 the Hawai’i Fridays, the two teams spent 19 extra Innings tied at 2-2 for a total of a 28 Inning game. While the 
