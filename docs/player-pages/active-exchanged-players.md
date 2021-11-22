@@ -65,4 +65,5 @@ In Strategy, Shirai McElroy solid pitcher who has occasionally filled in as a ba
 
 [Shirai McElroy on Blaseball-Reference](https://blaseball-reference.com/players/shirai-mcelroy)
 
+Mini Shirai by [@ZweiHawke](https://twitter.com/zweihawke)
 ---

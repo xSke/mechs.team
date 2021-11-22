@@ -45,6 +45,12 @@ Mechs can fix anything, even at their lowest.
 
 [WHERE IS BNN? Find out here](https://blaseball.news/2021/05/09/blaseball-power-rankings-season-18/)
 
+## Jaylen/Kranch Exchange
+
+At the end of season 18, famous pitcher Jaylen Hotdogfingers and Flowers batter Allan Kranch were exchanged. This move 
+forced the now cured Discipline-era legend to start batting for the first time, while the Mechanics gained a new, decent 
+batting prospect to be Faxed into the shadows for future use. This would be the Catalyst for Re-uniting Pitch Perfect.
+
 ---
 Maintenance Mode GIF by [@ZweiHawke](https://twitter.com/zweihawke)
 
