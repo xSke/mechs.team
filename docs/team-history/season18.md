@@ -11,12 +11,13 @@ permalink: /team-history/season18
 
 ## Kelvin Andante and Fax Evasion
 
-The start of Early-Midseason on Season 18 was punctuated by one Kelvin Andante, who was brought out in Season 17 as a
-result of the Fax Machine. Anticipating that Kelvin would quickly re-enter the shadows, fans were mortified positively
-when Andante managed to avoid the fax for most of the season, creating one of the most hilarious moments of struggling
-in Mechanics’ history; so much so they invited other teams over as if it was a holiday whenever it was Andante’s turn to
-pitch. Andante was finally faxed out on Day 84 of the regular season, with Andante’s earlier wins just barely squeezing
-them into the playoffs.
+The start of Early-Midseason on Season 18 was punctuated by one Kelvin Andante, who was brought out as an Emergency 
+Foreshadow in the Season 18 Elections to preempt unwanted Feedbacks in the wake of 
+[Jaylens World Tour](/team-history/season17#jaylen-hotdogfingers-world-tour). Anticipating that Kelvin would quickly 
+re-enter the shadows, fans were mortified positively when Andante managed to avoid the fax for most of the season, 
+creating one of the most hilarious moments of struggling in Mechanics’ history; so much so they invited other teams over 
+as if it was a holiday whenever it was Andante’s turn to pitch. Andante was finally faxed out on Day 84 of the regular 
+season, with Andante’s earlier wins just barely squeezing them into the playoffs.
 
 ## Twin Feedbacks
 

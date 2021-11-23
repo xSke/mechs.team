@@ -39,15 +39,19 @@ of the game, allowing a sacrifice play on the fourth out and ending the game 2-1
 
 After having a season with plenty of wild weather effects, the Shelled Kelvin Drumsolo and a three-batter spread 
 consisting of Adelaide Judochop, Gia Holbrook, and Cannonball Sports won a fateful series against the Houston Spies, 
-even with use of the Item Mod, Underhanded, which had made homerun plays versus Underhanded pitchers all negative plays. 
+even with use of the Item Mod, Underhanded, which had made home runs versus Underhanded pitchers score negative Runs. 
 The game ended with a high scoring rally from the batting core with the now Underhanded Mindy Kugel, ending 8-4 in the 
-Mechanics favor and handing the Mechs the first Overbracket championship win, with the final run of the season 
-slam-dunked in by a Shelled Drumsolo.
+Mechanics' favor and handing the Mechs their first Overbracket championship win, with the final run of the season 
+slam-dunked in by a Shelled Kelvin Drumsolo.
 
 ## The Zo-Yo
 
-<img src="../assets/zoyoPlanDoc.png" style="float: right; padding-top: 10px padding-bottom: 10px; padding-left: 15px" width="300" alt=
-"The S20 Election Fax!">
+During the already chaotic events of Season 20, the fanbase came up with a plan to do something that has never been 
+tried before: "Trade" back for a beloved player without losing **anyone** in return.
+
+<img src="../assets/zoyoPlanDoc.png" style="float: right; padding-top: 10px padding-bottom: 10px; padding-left: 15px" 
+width="300" alt="The S20 Election Fax!">
+
 In a spot of unprecedented risk and coordination, the Core Mechanics made a friendly bid at the permission of the Dallas 
 Steaks to obtain Zoey Kirchner at the cost of shortening the Steaks Rotation on success and stranding another player on 
 failure. The Core Mechanics used similar star-count player Shirai McElroy to exchange to get the player onto the Mechs 

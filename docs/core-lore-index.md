@@ -11,6 +11,8 @@ Also known as "Clore"
 
 ### [MAXIMUM](/core-lore/MAXIMUM)
 
+### [The Casino Heist & “Root”](/core-lore/heist-root)
+
 ## [The Core Organizations](https://www.blaseball.wiki/w/Core_Organizations)
 
 [//]: <> (Does this Framework have Dropdowns? I think we could use some here. - N1tr00)
