@@ -5,9 +5,9 @@ module.exports = {
   themeConfig: {
       sidebar: [
           "/",
-          "/core-lore",
-          "/players",
-          "/team-history/full-history",
+          "/core-lore/",
+          "/players/",
+          "/team-history/full-history/",
           /*{
             text: "Team History",
             children: [
