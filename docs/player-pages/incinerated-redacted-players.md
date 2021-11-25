@@ -1,7 +1,6 @@
 ---
 permalink: /players/incinerated-redacted
 ---
-← [Player overview](/players)
 
 # Incinerated and Redacted Players
 

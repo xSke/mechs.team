@@ -1,7 +1,6 @@
 ---
 permalink: /players/clone-replica
 ---
-← [Player overview](/players)
 
 # Clones and Replicas
 

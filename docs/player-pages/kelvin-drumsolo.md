@@ -1,8 +1,6 @@
 ---
 permalink: /players/kelvin-drumsolo
 ---
-← [Player overview](/players)
-
 
 # Kelvin Drumsolo (Ze/Zir)<img src="../assets/mini-kelvinDrumsolo.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Kelvin Drumsolo Mini by Zweihawke">
 

@@ -1,7 +1,6 @@
 ---
 permalink: /players/jolene-willowtree
 ---
-← [Player overview](/players)
 
 # Jolene Willowtree (She/He)<img src="../assets/mini-jolene.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt=" Jolene Willowtree Mini by Zweihawke">
 

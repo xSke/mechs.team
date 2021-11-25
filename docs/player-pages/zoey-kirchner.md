@@ -1,7 +1,6 @@
 ---
 permalink: /players/zoey-kirchner
 ---
-← [Player overview](/players)
 
 # Zoey Kirchner (They/Them); (She/Her)<img src="../assets/mini-softZoey.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Soft Zoey Mini by Zweihawke"><img src="../assets/mini-acidZoey.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Acid Zoey Mini by Zweihawke">
 

@@ -1,11 +1,10 @@
 ---
 permalink: /players/notable-shadowed
 ---
-← [Player overview](/players)
 
 # Notable Shadowed Players
 
-## Mira Lemma
+## Mira Lemma (She/Her)
 
 Mira Lemma joined the Core Mechanics in Season 12 as a batter. Mira retreated to the Shadows on Season 22, Day 2, in
 exchange for Shirai McElroy through Voicemail.

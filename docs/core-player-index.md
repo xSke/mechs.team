@@ -39,7 +39,7 @@ That means everyone. They are all core players on our team.
 
 ### Ilane Snart
 
-###Augusto Reddick
+### Augusto Reddick
 
 ## [Former Exchanged Players](/players/former-exchanged)
 

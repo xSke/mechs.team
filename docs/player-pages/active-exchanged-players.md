@@ -1,7 +1,6 @@
 ---
 permalink: /players/active-exchanged
 ---
-← [Player overview](/players)
 
 # Active Exchanged Players
 

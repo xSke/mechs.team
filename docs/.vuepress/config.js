@@ -6,7 +6,33 @@ module.exports = {
       sidebar: [
           "/",
           "/core-lore/",
-          "/players/",
+          {
+              text: "Core Players",
+              children: [
+                  {
+                      text: "Active Original Players",
+                      children: [
+                          "/players/adelaide-judochop",
+                          "/players/gia-holbrook",
+                          "/players/jolene-willowtree",
+                          "/players/kelvin-drumsolo",
+                          "/players/zoey-kirchner"
+                      ]
+                  },
+                  {
+                      text: "Active Exchanged Players",
+                      children: [
+                          "/players/cannonball-sports",
+                          "/players/mindy-kugel",
+                          "/players/shirai-mcelroy"
+                      ]
+                  },
+                  "/players/notable-shadowed",
+                  "/players/former-exchanged",
+                  "/players/incinerated-redacted",
+                  "/players/clone-replica"
+              ]
+          },
           {
             text: "Team History",
             children: [

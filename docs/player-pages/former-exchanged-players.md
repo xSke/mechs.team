@@ -1,7 +1,6 @@
 ---
 permalink: /players/former-exchanged
 ---
-← [Player overview](/players)
 
 # Former Exchanged Players
 

@@ -1,7 +1,6 @@
 ---
 permalink: /players/adelaide-judochop
 ---
-← [Player overview](/players)
 
 # Adelaide Judochop (She/Her)
 
