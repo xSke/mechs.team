@@ -27,10 +27,46 @@ module.exports = {
                           "/players/shirai-mcelroy"
                       ]
                   },
-                  "/players/notable-shadowed",
-                  "/players/former-exchanged",
-                  "/players/incinerated-redacted",
-                  "/players/clone-replica"
+                  {
+                      text: "Notable Shadowed Players",
+                      children: [
+                          "/players/mira-lemma",
+                          "/players/bottles-suljak",
+                          "/players/kofi-gildehaus",
+                          "/players/kelvin-andante",
+                          "/players/allan-kranch",
+                          "/players/ilane-snart",
+                          "/players/augusto-reddick"
+                      ]
+                  },
+                  {
+                      text: "Former Exchanged Players",
+                      children: [
+                          "/players/doc-anice",
+                          "/players/lady-matsuyama",
+                          "/players/lizzy-pasta",
+                          "/players/torus-mcghee",
+                          "/players/jasper-blather",
+                          "/players/foxy-pebble",
+                          "/players/jaylen-hotdogfingers"
+                      ]
+                  },
+                  {
+                      text: "Incinerated and Redacted",
+                      children: [
+                          "/players/hands-scoresburg",
+                          "/players/ruffian-applesauce",
+                          "/players/bees-taswell",
+                          "/players/christian-combs"
+                      ]
+                  },
+                  {
+                      text: "Clones and Replicas",
+                      children: [
+                          "/players/wyatt-mason-xi",
+                          "/players/cote-loveless-iii"
+                      ]
+                  }
               ]
           },
           {

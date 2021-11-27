@@ -2,7 +2,7 @@
 permalink: /players/shirai-mcelroy
 ---
 
-# Shirai McElroy (She/Her)<img src="../assets/mini-shirai.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Shirai McElroy Mini by Zweihawke">
+# Shirai McElroy (She/Her)<img src="../../assets/mini-shirai.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Shirai McElroy Mini by Zweihawke">
 
 Shirai McElroy joined the Core Mechanics during the Season 13 Elections after a trade with the Canada Moist Talkers in
 exchange for PolkaDot Patterson.

@@ -48,7 +48,7 @@ permalink: /team-history
 ### [Season 24](/team-history/season24)
 
 &nbsp;
-&nbsp;
+
 
 ---
 

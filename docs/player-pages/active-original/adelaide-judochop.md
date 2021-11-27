@@ -4,12 +4,12 @@ permalink: /players/adelaide-judochop
 
 # Adelaide Judochop (She/Her)
 
-<img src="../assets/adelaideJudochop.png" style="float: right; padding-left: 10px; padding-top: 25px; padding-bottom: 25px"
+<img src="../../assets/adelaideJudochop.png" style="float: right; padding-left: 10px; padding-top: 25px; padding-bottom: 25px"
 width="250" alt="Adelaide Judochop by WiresAndLight">
 
 
-Adelaide “Addie” Judochop joined the Core Mechanics on Season 13, Day 79, after the incineration of Ruffian Applesauce 
-as a batter.
+Adelaide “Addie” Judochop joined the Core Mechanics on [Season 13, Day 79](https://reblase.sibr.dev/game/61c51487-5203-469d-9e73-a2665af631d4), 
+after the incineration of Ruffian Applesauce as a batter.
 
 In Lore, Adelaide is a Toku hero who often takes an Alter Ego when up to bat. Adelaide herself is up to the mound when 
 pitching or fielding, and Captain Judochop is up to bat when batting. Her suit changes based on her mood and current 

@@ -2,7 +2,7 @@
 permalink: /players/gia-holbrook
 ---
 
-# Gia Holbrook (She/It)<img src="../assets/mini-gia.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt=" Gia Holbrook Mini by Zweihawke">
+# Gia Holbrook (She/It)<img src="../../assets/mini-gia.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt=" Gia Holbrook Mini by Zweihawke">
 
 <img src="" style="float: right; padding-left: 10px; padding-top: 25px; padding-bottom: 25px"
 width="250" height="450" alt="IMAGE PLACEHOLDER">

@@ -2,7 +2,7 @@
 permalink: /players/kelvin-drumsolo
 ---
 
-# Kelvin Drumsolo (Ze/Zir)<img src="../assets/mini-kelvinDrumsolo.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Kelvin Drumsolo Mini by Zweihawke">
+# Kelvin Drumsolo (Ze/Zir)<img src="../../assets/mini-kelvinDrumsolo.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Kelvin Drumsolo Mini by Zweihawke">
 
 Kelvin Drumsolo joined the Core Mechanics in Season 12 as a batter.
 

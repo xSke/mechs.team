@@ -2,7 +2,7 @@
 permalink: /players/jolene-willowtree
 ---
 
-# Jolene Willowtree (She/He)<img src="../assets/mini-jolene.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt=" Jolene Willowtree Mini by Zweihawke">
+# Jolene Willowtree (She/He)<img src="../../assets/mini-jolene.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt=" Jolene Willowtree Mini by Zweihawke">
 
 Jolene “Jo”  Willowtree joined the Core Mechanics in Season 12 as a pitcher.
 

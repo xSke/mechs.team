@@ -2,7 +2,7 @@
 permalink: /players/zoey-kirchner
 ---
 
-# Zoey Kirchner (They/Them); (She/Her)<img src="../assets/mini-softZoey.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Soft Zoey Mini by Zweihawke"><img src="../assets/mini-acidZoey.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Acid Zoey Mini by Zweihawke">
+# Zoey Kirchner (They/Them); (She/Her)<img src="../../assets/mini-softZoey.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Soft Zoey Mini by Zweihawke"><img src="../../assets/mini-acidZoey.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Acid Zoey Mini by Zweihawke">
 
 Zoey Kircher joined the Core Mechanics in Season 12 in the Shadows. During the Season 16 Elections, Zoey was traded to 
 the Dallas Steaks in exchange for PolkaDot Patterson before being taken back by the Core Mechanics in the Season 20 

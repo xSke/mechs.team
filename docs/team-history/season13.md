@@ -10,19 +10,20 @@ permalink: /team-history/season13
 
 ## Season 13 Feedbacks
 
-Another legendary pitcher of the Discipline Era was Jaylen Hotdogfingers who, prior to the arrival of Zoey, was the best
-natural pitching roll ever all the way back in Season One. Jaylen had the mod Fliiickeriiing which made her almost 
-guaranteed to swap teams in Feedback weather. She had been on a tour of the Mild league, leaving players displaced in 
-her wake. During a game while on the Hawai’i Fridays, she swapped with Mechanics’ pitcher Lizzy Pasta. A few games later
-she then Feedbacked for Mindy Kugel on the Seattle Garages (a player who had arrived with the Ohio Worms, and had been 
-swapped for Pitching Machine - a third Discipline Era legend). The Garages were Jaylen’s original team and her return 
-home marked the end of her journey for the moment. In the end, the Fridays were left with Lizzy Pasta and Mindy Kugel 
-became a fixture on the Mechanics.
+Another legendary pitcher of the Discipline Era was [Jaylen Hotdogfingers](/players/jaylen-hotdogfingers) 
+who, prior to the arrival of [Zoey Kirchner](/players/zoey-kirchner), was the best natural pitching roll ever all the 
+way back in Season One. Jaylen had the mod Fliiickeriiing which made her almost guaranteed to swap teams in Feedback 
+weather. She had been on a tour of the Mild league, leaving players displaced in her wake. During a game while on the 
+Hawai’i Fridays, she swapped with Mechanics’ pitcher [Lizzy Pasta](/players/lizzy-pasta). A few 
+games later she then Feedbacked for [Mindy Kugel](/players/mindy-kugel) on the Seattle Garages (a player who had arrived 
+with the Ohio Worms, and had been swapped for Pitching Machine - a third Discipline Era legend). The Garages were 
+Jaylen’s original team and her return home marked the end of her journey for the moment. In the end, the Fridays were 
+left with Lizzy Pasta and Mindy Kugel became a fixture on the Mechanics.
 
 ## Season 13 Incinerations
 
 During their first season of play, the Mechanics lost two players to Rogue Umpires. Seasons 12 and 13 had the highest 
-rates of Incineration in the Expansion Era and the Mechanics wouldn’t see any more deaths. The first to go was 
+rates of Incineration in the Expansion Era and the Mechanics wouldn't see any more deaths. The first to go was 
 Hands Scoresburg on Day 33. Hands was a three-star batter with a promising career ahead of them (given the state of 
 the rest of of our batters at the time). Hands was replaced by equally competent three-star batter, Jasper Blather, who 
 would be Revoked from the team at the end of the season. On Day 78 we lost early fan-favourite and statistical anomaly, 
@@ -39,18 +40,18 @@ likelihood of weather events). The stadium is known colloquially as “The Pilla
 ## Jasper Blather Revoked
 
 During the Season 13 Elections, the team voted to Revoke their then best batter - Jasper Blather (who had rolled well 
-and had benefited from Parties). Jasper was removed from the roster and gained the Modification Roamin’, meaning that 
+and had benefited from Parties). Jasper was removed from the roster and gained the Modification Roamin', meaning that 
 they now have a chance to change teams at the end of every season. Fans jokingly used the slogan “Woe, Rock Be Upon Ye”,
 both in reference to a meme and the most common fan-interpretation of Jasper as a literal rock with googly eyes and a 
 jersey draped over them.
 
 ## Shirai Traded to the Mechanics
 
-While PolkaDot Patterson had not begun their career on the Moist Talkers, they had spent most of it on that team and 
+While PolkaDot Patterson had not begun their career on the Moist Talkers, they had spent most of it on that team, and 
 they were the team whom the Mechanics took PolkaDot from in the Season 12 election.
 
 The Moist Talkers had, during the Discipline Era, decided to trust in the Entity known as the Hall Monitor (who they 
-call their ‘Moist God’ due to its squidlike appearance) and had offered it a then-shelled PolkaDot. The Monitor had 
+call their ‘Moist God’ due to its squid-like appearance) and had offered it a then-shelled PolkaDot. The Monitor had 
 proceeded to free Dot from their shell, making them the first Squiddish player and cementing the relationship between 
 the team and the entity.
 
