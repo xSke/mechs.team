@@ -19,9 +19,9 @@ this was kicking the Mechs while they were on the ground.
 
 On Day 72 of season 17, the Core Mechanics installed the Stadium Removation “Fax Machine” into The Pillars. This would 
 allow relief pitchers to enter the game if the active pitcher gave up 10 runs in a Home Game. This Renovation would give
-the Mechanics time to rebuild their Pitching core by letting the players with far less stars shove themself in to the 
+the Mechanics time to rebuild their Pitching core by letting the players with far fewer stars shove themselves into the 
 fax and bringing the stronger players out without use of wills like Move or Swap, combined with an automatic buff for 
-the pitcher entering the shadows. Players like Cravel Geshundheit and Kofi Gildehaus entered play briefly due to said 
+the pitcher entering the shadows. Players like Cravel Gesundheit and Kofi Gildehaus entered play briefly due to said 
 Fax Exchanges. 
 
 ## Jaylen Hotdogfingers World Tour
@@ -37,8 +37,8 @@ by the Sim.
 alt="Party Gearball Emote">
 
 The Core Mechanics lost the most the fastest in Season 17, getting the lowest overall standings that season and becoming
-the Hosts for the Party Time Celebration, gaining the maincord :partygearball: emote and celebrating in ALL CAPS in the 
-maincord party lounge. The party favor the Mechanics brought were customized gearballs in the colors of all the other 
+the Hosts for the Party Time Celebration, gaining the Maincord :partygearball: emote and celebrating in ALL CAPS in the 
+Maincord party lounge. The party favor the Mechanics brought were customized gearballs in the colors of all the other 
 ILB teams.
 
 

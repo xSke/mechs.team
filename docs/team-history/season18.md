@@ -31,7 +31,7 @@ Sports, and their best batter Lady Matsuyama for Fridays original Christian Comb
 alt="Maintenance Mode GIF by ZweiHawke">
 
 Up to this point, the Core Mechanics had never seen a non-intentional stat loss that was enough to proc their Evolution 
-Modifier “Maintenance Mode” after a Bloodrain by Spears Taylor on Gia Holbrook’s pitching ability. This gave the team an
+Modifier “Maintenance Mode” after a Blooddrain by Spears Taylor on Gia Holbrook’s pitching ability. This gave the team an
 early Fourth Out, and allowed a huge at-bat advantage against the veteran Hawai’i Fridays, causing them to ultimately 
 win the series and advance through this unexpected playoff run.
 
@@ -39,7 +39,7 @@ win the series and advance through this unexpected playoff run.
 
 The beginning to Season 18 was punctuated by harsh review and criticism by all involved. BNN described Season 17 as a 
 “Retelling of Icarus”, A few folks rated the Core Mechanics number 24 on their seasonal Tier Lists. What the league 
-couldn’t have seen was a Finals against the Boston Flowers, ending 3-2 in a Climactic game with Jolene Willowtree on the
+couldn't have seen was a Finals against the Boston Flowers, ending 3-2 in a Climactic game with Jolene Willowtree on the
 Mound for the final game, ending the series with a game-winning 3-1 score, and allowing the Core Mechanics their first 
 truly earned championship and allowing the Mechs to host their first Parade. An iconic season that really proves the 
 Mechs can fix anything, even at their lowest.

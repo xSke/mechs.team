@@ -33,7 +33,7 @@ very last inning, in which Winnie Hess added on to their bloated star count by d
 anyone who knows how a Core Mechanics game goes, this was a terrible idea. Maintenance Mode activated on the last inning 
 of the game, allowing a sacrifice play on the fourth out and ending the game 2-1 at the very last moment possible.
 
-[**Watch the dramatic last innings here!**](https://www.youtube.com/watch?v=cNsNYt-vjAs)
+[**Watch the dramatic last inning here!**](https://www.youtube.com/watch?v=cNsNYt-vjAs)
 
 ## Win(Win) Championship 2
 

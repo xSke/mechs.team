@@ -22,14 +22,14 @@ modifiers.
 Season 15 also saw the Mechs make their first ILB playoff appearance after being randomly selected from the 
 non-qualifying teams via the Mild Card. Their first series was against the Kansas City Breath Mints who handily swept 
 them from contention. The entire ILB was invited to watch, with teams like the Hades Tigers modifying their own chants 
-to cheer the newcomers on. While it obviously didn’t end in a championship, it was an early portent of the team that was
+to cheer the newcomers on. While it obviously didn't end in a championship, it was an early portent of the team that was
 en route to be one of the Expansion Era’s most dominant contenders.
 
 ## Unboxing the Fox
 
 Batter Foxy Pebble was retrieved from the Core Mechanics shadows during the Season 15 Elections and became an excellent 
 baserunner in the foundation of the team, easily boosting up a lackluster batting core and allowing the Mechs to not 
-only prevent runs but to make them as well, even if it was slow and steady. This was one of the first coordinated will 
+only prevent runs but to make them as well, even if it was slow and steady. This was one of the first coordinated Will 
 attempts along with the previous season’s Jolene Infusion.
 
 During the Season 15 elections, the team retrieved a promising batting prospect from their Shadows. The plan was to 
@@ -56,7 +56,7 @@ name ‘Pitch Perfect’.
 alt="MAXIMUM Core Mechanics Logo">
 
 This season would see the widest spread of blessings the Mechs would win in the Expansion Era. Two minor stat blessings,
-and one major modifier blessing, punctuated by a surprise statement by the newly inaugurated League Historian, Lootcrates.
+and one major modifier blessing, punctuated by a surprise statement by the newly inaugurated League Historian, Lōotcrates.
 
 *“Memories Flood  
 Overtake The Bridge  

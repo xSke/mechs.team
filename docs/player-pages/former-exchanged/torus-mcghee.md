@@ -19,7 +19,7 @@ the Shadows by the Seattle Garages.
 
 In Lore, Torus is a modified blattlebot who is always looking out for the team. Even after being transferred to the
 Garages, Torus holds a strong care for the Mechanics and their new team alike. After being shadowed, Torus became more
-of a mascot to the the team.
+of a mascot to the team.
 
 In Strategy, Torus was a pitcher who was shadowed during the Season 15 Elections.
 

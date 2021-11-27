@@ -58,7 +58,7 @@ were people the team was willing to give up.
 
 ## AAA Blood
 
-AAA Blood was a hotly contested blessing for two teams, the Mechanics and the New York Millennials. After an intense 
+AAA Blood was a hotly contested blessing for two teams, the Mechanics and the New York Millenials. After an intense 
 Propaganda war that saw the creation of over 200 unique pieces of propaganda by the Mechs and an All-In blessing push by
 both teams, the Blessing was gained by the Dallas Steaks at a 0% wimdy (a term used to refer to unlikely election 
 results), leaving both teams dry and left with only memories of the journey to get there.
