@@ -7,8 +7,8 @@ permalink: /players/bees-taswell
 <img src="../../assets/beesBat.png" style="float: right; padding-left: 10px; padding-bottom: 25px"
 width="250"  alt="Bees Taswell /w Wedding Bat by Wires">
 
-Bees Taswell joined the Core Mechanics in Season 12 as a batter. On Season 24, Day 24 was beaned by Niq Nyong’o and was
-redacted that day.
+Bees Taswell joined the Core Mechanics in Season 12 as a batter. On [Season 24 Day 24](/team-history/season24/#redactions-of-bees-and-combs) 
+they were beaned by [Niq Nyong’o](https://www.blaseball.wiki/w/Niq_Nyong%27o) of the Philly Pies and redacted the same day.
 
 In Lore, Bees Taswell is a sentient hivemind of nanobees. Bees and their beeloved Inez Owens of the Boston Flowers both
 communicate through dance. The swarms were wed in ceremony following Season 14.

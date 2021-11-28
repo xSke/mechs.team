@@ -4,8 +4,8 @@ permalink: /players/mira-lemma
 
 # Mira Lemma (She/Her)
 
-Mira Lemma joined the Core Mechanics in Season 12 as a batter. Mira retreated to the Shadows on Season 22, Day 2, in
-exchange for Shirai McElroy through Voicemail.
+Mira Lemma joined the Core Mechanics in Season 12 as a batter. Mira retreated to the Shadows on Season 22 Day 2, in
+exchange for [Shirai McElroy](/players/shirai-mcelroy) through Voicemail.
 
 In Lore, Mira Lemma is a resourceful Foundry Demon. She’s more recognizable for her prowess in boxing than Blaseball.
 In the Core, she’s a problem solver keen on mathematics and machining. Mira is fiercely protective of those close to her

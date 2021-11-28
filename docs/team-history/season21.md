@@ -10,16 +10,16 @@ permalink: /team-history/season21
 
 ## Kelvin Un-shelled
 
-After being stuck in a giant peanut shell for most of Season 20, Kelvin Drumsolo was pecked free by birds on Season 21 
-Day 2, in a game against the Kansas City Breath Mints. This event unfortunately zir to be afflicted with a peanut 
-Superallergy, which luckily got downgraded to a regular allergy and subsequently fully cured again during the season 
-without causing any damage.
+After being [stuck in a giant peanut shell](/season20/#shell-vin-drumsolo) for most of Season 20, [Kelvin Drumsolo](/players/kelvin-drumsolo)
+was pecked free by birds on Season 21 Day 2, in a game against the Kansas City Breath Mints. This event unfortunately 
+zir to be afflicted with a peanut Superallergy, which luckily got downgraded to a regular allergy and subsequently 
+fully cured again during the season without causing any damage.
 
 ## Alto’s One-Game Debut
 
-After their introduction to the team’s shadows, Polkadot Patterson, now optimized with a decent star-count for batting 
+After their introduction to the team’s shadows Polkadot Patterson, now optimized with a decent star-count for batting 
 was brought into the League through Voicemail on Season 21, Day 104. However in their first game, they didn’t get to 
-make any major moves, as a combination of the Mechs already lethally consistent batting, Sun(Sun)’s positive numerical 
+make any major moves. As a combination of the Mechs already lethally consistent batting, Sun(Sun)’s positive numerical 
 changes and Black Hole granting the opposing team a Win instead of a loss due to Sun(Sun), the Mechanics won themselves 
 out of the playoffs and ended their playoff run there with Polkadot Patterson’s debut not allowing a single hit earned.
 
@@ -32,9 +32,9 @@ making them Negative in the process, and shifting a majority of stats away from 
 
 ## Alto’s Return to the Talkers
 
-The Moist Talkers once again reunited with the now alternated squiddish player in a surprise exchange for Augusto 
-Reddick, with Polkadot being featured on the Moist Talkers batting lineup and Augusto Reddick taking a spot on the Mechs 
-batting lineup. They were voicemailed out for the current best shadows pitcher on the Mechs, Shirai McElroy for their 
-overall batting stars.
+The Moist Talkers once again reunited with the now alternated squiddish player in a surprise exchange for [Augusto 
+Reddick](/players/augusto-reddick), with Polkadot being featured on the Moist Talkers batting lineup and Augusto Reddick 
+taking a spot on the Mechs batting lineup. They were voicemailed out for [Shirai McElroy](/players/shirai-mcelroy), the 
+current best shadows pitcher on the Mechs, because of the latter's overall batting stars.
 
 

@@ -14,8 +14,8 @@ target="_blank" style="font-weight: bold; color: #1CAAD9;"> Torus McGhee (Battin
 target="_blank" style="font-weight: bold; color: #1CAAD9;"> Trihunter </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=daca659eafc043d1b8fa057310fbfc9f" 
 target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
-Torus McGhee joined the Core Mechanics in Season 12 as a pitcher. During the Season 22 Elections, Torus was taken from
-the Shadows by the Seattle Garages.
+Torus McGhee joined the Core Mechanics in Season 12 as a pitcher. During the [Season 22 
+Elections](/team-history/season22/#torus-gets-pulled), Torus was taken from the Shadows by the Seattle Garages.
 
 In Lore, Torus is a modified blattlebot who is always looking out for the team. Even after being transferred to the
 Garages, Torus holds a strong care for the Mechanics and their new team alike. After being shadowed, Torus became more

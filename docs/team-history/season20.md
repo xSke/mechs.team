@@ -20,7 +20,8 @@ to happen: While SHELLED players being able to field balls was a well-documented
 to score alley oops as a result of the Pillars' Hoops modification installed in the previous season, and actually score 
 on multiple occasions! Onlookers have been quoted to describe the strange phenomenon as "inspiring, and also hilarious".
 
-Kelvin would remain in zir shell for the rest of the Season, only being un-shelled on Day 2 of Season 21.
+Kelvin would remain in zir shell for the rest of the Season, only being un-shelled on
+[Day 2 of Season 21](/season21/#kelvin-un-shelled).
 
 ## [Unbirds](https://www.blaseball.wiki/w/Unbirds)
 
