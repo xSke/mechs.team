@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season13
 ---
-← [Team History overview](/team-history)
 
 # Season 13
 **Win/Loss Record:** 41-58  

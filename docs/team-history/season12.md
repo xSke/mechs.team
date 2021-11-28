@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season12
 ---
-← [Team History overview](/team-history)
 
 # Season 12
 **Win/Loss Record:** N/A  

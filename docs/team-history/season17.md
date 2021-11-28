@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season17
 ---
-← [Team History overview](/team-history)
 
 # Season 17
 **Win/Loss Record:** 26-73  

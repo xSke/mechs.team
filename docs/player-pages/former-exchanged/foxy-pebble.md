@@ -4,8 +4,10 @@ permalink: /players/foxy-pebble
 
 # Foxy Pebble (Vix/Vixes)
 
-Foxy Pebble joined the Core Mechanics in Season 12 in the Shadows. On Season 18, Day 58, Foxy feedbacked onto the San
-Francisco Lovers in exchange for Cannonball Sports.
+
+
+Foxy Pebble joined the Core Mechanics in Season 12 in the Shadows. On [Season 18 Day 58](/team-history/season18/#twin-feedbacks), 
+Foxy feedbacked onto the San Francisco Lovers in exchange for [Cannonball Sports](/players/cannonball-sports).
 
 In Lore, Foxy Pebble is a tiny naughty nonverbal fennec fox who communicates through various vulpine vocalizations and a
 local sign language known as DownSL. Foxy pilots a mecha during games and has a history with the Underground Mecha

@@ -4,9 +4,9 @@ permalink: /players/zoey-kirchner
 
 # Zoey Kirchner (They/Them); (She/Her)<img src="../../assets/mini-softZoey.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Soft Zoey Mini by Zweihawke"><img src="../../assets/mini-acidZoey.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt="Acid Zoey Mini by Zweihawke">
 
-Zoey Kircher joined the Core Mechanics in Season 12 in the Shadows. During the Season 16 Elections, Zoey was traded to 
-the Dallas Steaks in exchange for PolkaDot Patterson before being taken back by the Core Mechanics in the Season 20 
-Elections.
+Zoey Kircher joined the Core Mechanics in Season 12 in the Shadows. During the [Season 16 Elections](/team-history/season16/#zoey-alto-swap), 
+Zoey was traded to the Dallas Steaks in exchange for PolkaDot Patterson before being taken back by the Core Mechanics in 
+[the famous Zo-Yo of the Season 20 Elections](/team-history/season20/#the-zo-yo).
 
 In Lore, Zoey Kircher has two notable depictions: one is as a fiercely competitive female prodigy with a body of acidic 
 slime and the other is of a young nonbinary humanoid with the features of varius other creatures in a body they 

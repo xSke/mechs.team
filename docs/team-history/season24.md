@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season24
 ---
-← [Team History overview](/team-history)
 
 # Season 24
 **Win/Loss Record:** 45-53 (... wait, only 98 Games?)  

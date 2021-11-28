@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season19
 ---
-← [Team History overview](/team-history)
 
 # Season 19
 **Win/Loss Record:** 52-47  

@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season14
 ---
-← [Team History overview](/team-history)
 
 # Season 14
 **Win/Loss Record:** 40-59  

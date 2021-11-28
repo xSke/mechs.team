@@ -4,6 +4,9 @@ permalink: /players/bees-taswell
 
 # Bees Taswell (They/Them)
 
+<img src="../../assets/beesBat.png" style="float: right; padding-left: 10px; padding-bottom: 25px"
+width="250"  alt="Bees Taswell /w Wedding Bat by Wires">
+
 Bees Taswell joined the Core Mechanics in Season 12 as a batter. On Season 24, Day 24 was beaned by Niq Nyong’o and was
 redacted that day.
 
@@ -20,5 +23,7 @@ We would like them back.
 [Bees Taswell on Blaseball Wiki](https://www.blaseball.wiki/w/Bees_Taswell)
 
 [Bees Taswell on Blaseball-Reference](https://blaseball-reference.com/players/bees-taswell)
+
+Player Art by [@wiresandlight](https://twitter.com/wiresandlight)
 
 ---

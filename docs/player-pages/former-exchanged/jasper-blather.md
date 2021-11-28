@@ -4,8 +4,9 @@ permalink: /players/jasper-blather
 
 # Jasper Blather (They/Them)
 
-Jasper Blather joined the Core Mechanics on Season 13, Day 30, after the incineration of Hands Scoresburg. During the
-Season 13 Elections, Jasper was revoked and began roaming to other teams. Jasper currently plays for the Ohio Worms.
+Jasper Blather joined the Core Mechanics on Season 13, Day 30, after the incineration of [Hands Scoresburg](/players/hands-scoresburg). 
+During the [Season 13 Elections](/season13/#jasper-blather-revoked), Jasper was revoked and began roaming to other 
+teams. Jasper currently plays for the Ohio Worms.
 
 Jasper Blather is a rock.
 

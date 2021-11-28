@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season23
 ---
-← [Team History overview](/team-history)
 
 # Season 23
 **Win/Loss Record:** 34-65  

@@ -4,8 +4,8 @@ permalink: /players/gia-holbrook
 
 # Gia Holbrook (She/It)<img src="../../assets/mini-gia.png" style="padding-bottom: 6px; vertical-align: middle; display: inline" alt=" Gia Holbrook Mini by Zweihawke">
 
-<img src="" style="float: right; padding-left: 10px; padding-top: 25px; padding-bottom: 25px"
-width="250" height="450" alt="IMAGE PLACEHOLDER">
+<img src="../../assets/giatloppscard.png" style="float: right; padding-left: 10px;"
+width="250"  alt="Gia Holbrook Tlopps Card by Wires">
 
 Gia Holbrook joined the Core Mechanics in Season 12 as a batter.
 
@@ -15,12 +15,13 @@ displaying her friendly face. She’s also known to inhabit curious forms, most 
 helps new visitors explore their interests.
 
 In Strategy, Gia Holbrook was a strong consistent batter who became a decent pitcher instead after her alternation 
-during the Season 21 Elections, though a lot of her pitching skill relies on an Item which could potentially break.
+during the [Season 21 Elections](/team-history/season21/#mass-alternation), though a lot of her pitching skill relies 
+on an Item which could potentially break.
 
 ---
 [Gia Holbrook on Blaseball Wiki](https://www.blaseball.wiki/w/Gia_Holbrook)
 
 [Gia Holbrook on Blaseball-Reference](https://blaseball-reference.com/players/gia-holbrook)
 
-Mini Gia by [@ZweiHawke](https://twitter.com/zweihawke)
+Mini Gia by [@ZweiHawke](https://twitter.com/zweihawke), Gia Tlopps Card by [@wiresandlight](https://twitter.com/wiresandlight)
 

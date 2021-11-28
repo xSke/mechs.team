@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season16
 ---
-← [Team History overview](/team-history)
 
 # Season 16
 **Win/Loss Record:** 54-45  

@@ -1,13 +1,19 @@
 ---
 permalink: /team-history/season21
 ---
-← [Team History overview](/team-history)
 
 # Season 21
 **Win/Loss Record:** 65-34  
 **Divisional Position:** 1st  
 **League Position:** 4th  
 **Postseason Progress:** Lost to the Hawai'i Fridays in the Overbracket Division Series
+
+## Kelvin Un-shelled
+
+After being stuck in a giant peanut shell for most of Season 20, Kelvin Drumsolo was pecked free by birds on Season 21 
+Day 2, in a game against the Kansas City Breath Mints. This event unfortunately zir to be afflicted with a peanut 
+Superallergy, which luckily got downgraded to a regular allergy and subsequently fully cured again during the season 
+without causing any damage.
 
 ## Alto’s One-Game Debut
 

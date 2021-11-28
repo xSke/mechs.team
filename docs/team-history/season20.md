@@ -1,13 +1,26 @@
 ---
 permalink: /team-history/season20
 ---
-← [Team History overview](/team-history)
 
 # Season 20
 **Win/Loss Record:** 67-32  
 **Divisional Position:** 2nd  
 **League Position:** 6th  
 **Postseason Progress: :tada: ANOTHER (OVERBRACKET) CHAMPIONSHIP WHAAAT :tada:**
+
+## Shell-vin Drumsolo
+
+<img src="../assets/shellDunk.png" style="float: right; padding-top: 10px padding-bottom: 10px; padding-left: 15px"
+width="300" alt="Example of Kelvin Drumsolo dunking while SHELLED">
+
+In a Peanut weather game on [Season 20, Day 24](https://reblase.sibr.dev/game/9d4d0ddf-3a22-45d0-a822-503ff720f92d), 
+Mechs batter [Kelvin Drumsolo](/players/kelvin-drumsolo) was trapped in a giant peanut shell by then Dallas Steaks 
+batter [Jessica Telephone](https://www.blaseball.wiki/w/Jessica_Telephone). After initial dismay, curious things started 
+to happen: While SHELLED players being able to field balls was a well-documented phenomenon, Kelvin's shell began trying 
+to score alley oops as a result of the Pillars' Hoops modification installed in the previous season, and actually score 
+on multiple occasions! Onlookers have been quoted to describe the strange phenomenon as "inspiring, and also hilarious".
+
+Kelvin would remain in zir shell for the rest of the Season, only being un-shelled on Day 2 of Season 21.
 
 ## [Unbirds](https://www.blaseball.wiki/w/Unbirds)
 

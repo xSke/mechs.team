@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season22
 ---
-← [Team History overview](/team-history)
 
 # Season 22
 **Win/Loss Record:** 55-44  

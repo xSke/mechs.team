@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season18
 ---
-← [Team History overview](/team-history)
 
 # Season 18
 **Win/Loss Record:** 59-40  
@@ -44,8 +43,9 @@ Mound for the final game, ending the series with a game-winning 3-1 score, and a
 truly earned championship and allowing the Mechs to host their first Parade. An iconic season that really proves the 
 Mechs can fix anything, even at their lowest.
 
-[WHERE IS BNN? Find out here](https://blaseball.news/2021/05/09/blaseball-power-rankings-season-18/)
-
+::: warning WHERE IS BNN?
+[Find out in this article!](https://blaseball.news/2021/05/09/blaseball-power-rankings-season-18/)
+:::
 ## Jaylen/Kranch Exchange
 
 At the end of season 18, famous pitcher Jaylen Hotdogfingers and Flowers batter Allan Kranch were exchanged. This move 

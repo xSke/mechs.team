@@ -1,7 +1,6 @@
 ---
 permalink: /team-history/season15
 ---
-← [Team History overview](/team-history)
 
 # Season 15
 **Win/Loss Record:** 46-53  
