@@ -6,18 +6,12 @@ permalink: /core-lore/the-core-is-down
 
 # The Core is Down
 
-The Core is a place full of mystery and unknowns. For one thing, the most consistent, accountable detail is that the 
-Core is always Down.
+The Core is a place of mystery and shifting definition. What is true one moment may be completely false the next and few people agree on the metaphysics of the place. Nevertheless, there is one consistent fact. The Core is always Down.
 
-This downward trend is not Down as in aimed at the earth’s core, nor is it oriented to the world and universe. The Core 
-is below those who will to enter it, sitting at the feet of anyone who has the will to self-improve or to escape.
+This doesn't mean Down as in the Earth's core, nor in a way that is oriented to any specific planet or universe. The Core is below those who wish to enter it, at the feet of anyone driven to explore what lies beneath.
 
-Entrances to the Core manifest differently for everyone. Some folks see it as an elevator, or large cavern; some just 
-wake up on the core grounds after going to sleep.
+Entrances to the Core tend to manifest differently for everyone. Some people might find an elevator with just one button marked as -0, others might find a cavernous tunnel leading into the gloomy depths. Others still might simply fall asleep and wake up in the Core.
 
-:arrow_double_down: is a community-used symbol for said occurrence, and is often used in a positive manner. It often means 
-“I’m Down for this” or, “Doubling Down”. It is often used in iconography for the mechs as well.
+:arrow_double_down: is a symbol used by the community to indicate general positivity. It tends to stand for "I'm Down for this", with the sense of doubling down on an idea. The double down arrow is often used in iconography and as a shape-basis for logos.
 
-:gear: is a another community-used symbol for acknowledgement and approval, we use this more often in interactions with 
-other communities due to negative connotations with down in other settings. It’s contextualized as “Gearing up” or 
-“Shifting Gears”.
+:gear: is more commonly seen due to confusion over what the down arrow was meant to represent. It is usually interpreted as "gearing up" or "shifting gears".
