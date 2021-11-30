@@ -9,12 +9,11 @@ permalink: /core-lore/MAXIMUM
 <img src="../assets/maximumMechanicalMayhem.png" style="float: right; padding-left: 10px; padding-top: 25px"  width="250"
 alt="MAXIMUM Mechanical Mayhem Logo by ZweiHawke">
 
-**MAXIMUM** was created in response to the Core Mechanics winning the season 16 blessing, “Sky’s the limit.”
+**MAXIMUM** was a response to the Core Mechanics benefiting from two blessings which gave players the Maximalist modifier. In Season 14, Mild High won the Min-Maxing blessing which made Gia Holbrook a Maximalist. In Season 15 the Mechanics won the Sky's the Limit blessing which made the entire rotation Maximalists. 
 
-**MAXIMUM** text is an All Caps black font with a precise teal outer glow, to match the color of the modifier Maximalist.
+**MAXIMUM** text is an all capitals black font with a teal outer glow, matching the colours of the Maximalist modifier.
 
-**MAXIMUM** in lore is a state that anyone can reach, given they are at a time of great need, wherein they perform leagues 
-above expectations at the most critical moment possible.
+**MAXIMUM** has come to represent the inherent ability to outperform all expectations at times of great need, in line with the in game mechanics of the modifier.
 
 <img src="../assets/maximumBurn.png" style="padding-left: 10px; padding-top: 25px"  width="600"
 alt="The Core is DOWN (and on fire) by ZweiHawke">
