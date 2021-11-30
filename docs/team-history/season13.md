@@ -23,12 +23,12 @@ left with Lizzy Pasta and Mindy Kugel became a fixture on the Mechanics.
 
 During their first season of play, the Mechanics lost two players to Rogue Umpires. Seasons 12 and 13 had the highest 
 rates of Incineration in the Expansion Era and the Mechanics wouldn't see any more deaths. The first to go was 
-Hands Scoresburg on Day 33. Hands was a three-star batter with a promising career ahead of them (given the state of 
-the rest of of our batters at the time). Hands was replaced by equally competent three-star batter, Jasper Blather, who 
-would be Revoked from the team at the end of the season. On Day 78 we lost early fan-favourite and statistical anomaly, 
-Ruffian Applesauce. Despite having only one batting star and a lot of promise as a pitcher, Ruffian had a habit of 
-knocking it out the park with Home Runs (in fact, hitting the first Mechs’ dinger ever). They were replaced by [Adelaide 
-Judochop](/players/adelaide-judochop). Both players are still missed, especially Ruffian. (See: Mechmento Mori)
+[Hands Scoresburg](/players/hands-scoresburg) on Day 30. Hands was a three-star batter with a promising career ahead of 
+them. Hands was replaced by equally competent three-star batter, Jasper Blather, who would be Revoked from the team at 
+the end of the season. On Day 78 we lost early fan-favourite and statistical anomaly,[Ruffian Applesauce](/players/ruffian-applesauce). 
+Despite having only one batting star and a lot of promise as a pitcher, Ruffian had a habit of knocking it out the park 
+with Home Runs (in fact, hitting the first Mechs’ dinger ever). They were replaced by [Adelaide Judochop](/players/adelaide-judochop). 
+Both players are still missed, especially Ruffian. (See: Mechmento Mori)
 
 ## Construction of the Core Pillar Center
 
@@ -38,25 +38,26 @@ likelihood of weather events). The stadium is known colloquially as “The Pilla
 
 ## Jasper Blather Revoked
 
-During the Season 13 Elections, the team voted to Revoke their then best batter - Jasper Blather (who had rolled well 
-and had benefited from Parties). Jasper was removed from the roster and gained the Modification Roamin', meaning that 
-they now have a chance to change teams at the end of every season. Fans jokingly used the slogan “Woe, Rock Be Upon Ye”,
-both in reference to a meme and the most common fan-interpretation of Jasper as a literal rock with googly eyes and a 
-jersey draped over them.
+During the Season 13 Elections, the team voted to Revoke their then best batter [Jasper Blather](/players/jasper-blather) 
+(who had benefited from Parties during the Lateseason). Jasper was removed from the roster and gained the Modification 
+Roamin', meaning that they now have a chance to change teams at the end of every season. Fans jokingly used the slogan 
+“Woe, Rock Be Upon Ye”, both in reference to a meme and the most common fan-interpretation of Jasper as a literal rock 
+with googly eyes and a jersey draped over them.
 
 ## Shirai Traded to the Mechanics
 
 While PolkaDot Patterson had not begun their career on the Moist Talkers, they had spent most of it on that team, and 
 they were the team whom the Mechanics took PolkaDot from in the Season 12 election.
 
-The Moist Talkers had, during the Discipline Era, decided to trust in the Entity known as the Hall Monitor (who they 
-call their ‘Moist God’ due to its squid-like appearance) and had offered it a then-shelled PolkaDot. The Monitor had 
-proceeded to free Dot from their shell, making them the first Squiddish player and cementing the relationship between 
-the team and the entity.
+The Moist Talkers had, during the Discipline Era, decided to trust in the Entity known as the [Hall Monitor](https://www.blaseball.wiki/w/Monitor)
+(who they call their ‘Moist God’ due to its squid-like appearance) and had offered it a then-shelled PolkaDot. The 
+Monitor had proceeded to free Dot from their shell, making them the first Squiddish player and cementing the 
+relationship between the team and the entity.
 
-At the end of Season 13, the Talkers voted to Plunder PolkaDot. They sent back Shirai McElroy, a player who they had 
-just freed from their Shadows due to her strong pitching. Shirai would go on to become a permanent fixture on the 
-Mechanics, as part of Pitch Perfect and as an occasional stand-in batter when the need arose.
+At the end of Season 13, the Talkers voted to Plunder PolkaDot. They sent back [Shirai McElroy](/players/shirai-mcelroy), 
+a player who they had just freed from their Shadows due to her strong pitching. Shirai would go on to become a permanent 
+fixture on the Mechanics, as part of [Pitch Perfect](/team-history/season15/#pitch-perfect) and as an occasional 
+stand-in batter when the need arose.
 
 ## Evelton McBlase II (Eve) Roams to the Team
 

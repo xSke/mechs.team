@@ -33,5 +33,5 @@ gap via blessings or Party Time boosts, Dot remained a Fan Favorite.
 
 They’d go on to play a significant role in the future of the Mechanics.
 
-PolkaDot also pitched the Core Mechanics’ first ever victory on S13 Day 3, holding the Hawai’i Fridays to just one run 
-while the Mechs scored two.
+PolkaDot also pitched the Core Mechanics’ first ever victory on [Season 13 Day 3](https://reblase.sibr.dev/game/af672bbd-630d-4d6e-aa4a-9263c301afc7), 
+holding the Hawai’i Fridays to just one run while the Mechs scored two.
