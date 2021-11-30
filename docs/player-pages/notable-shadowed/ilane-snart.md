@@ -9,10 +9,10 @@ Ilane joined the active roster as a pitcher in exchange for [Jolene Willowtree](
 23, Day 15, Ilane retreated to the Shadows in exchange for [Augusto Reddick](/players/augusto-reddick) through the Fax
 Machine.
 
-In Lore, Ilane Snart is a snake scientist with an endless hunger for knowledge. Dr. Snart will stop at nothing to
-further a new discovery.
+Ilane Snart is a snake scientist with an endless hunger for knowledge. Dr. Snart will stop at nothing to
+further the bounds of scientific discovery. Snart runs an academy of higher learning called the Anaconda-cademy.
 
-In Strategy, Ilane Snart is a pitcher who was substituted in Season 22 to protect Jolene Willowtree from harm. Ilane now
+Strategically, Ilane Snart is a pitcher who was brought out on a 1% chance wimdy. While it gave the community a chance to create lore for Snart, Ilane now
 remains in the Shadows.
 
 ---
