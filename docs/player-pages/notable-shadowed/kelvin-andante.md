@@ -9,13 +9,9 @@ active roster as a pitcher in exchange for [Jolene Willowtree](/players/jolene-w
 [Season 18 Day 84](/team-history/season18/#kelvin-andante-and-fax-evasion), Kelvin retreated to the Shadows in exchange 
 with Jolene through the Fax Machine. Kelvin was alternated in the Season 18 Election.
 
-In Lore, Kelvin Andante is definitely not Kevin Andrews (arguably the greatest Little League’s Pitcher of all time) as
-Andrews did not have a moustache and Andante has a clearly real moustache (please ignore the fact that it appears to be
-falling off). Andante arrived in the Core just prior to the Descension. Andante and [Kelvin Drumsolo](/players/kelvin-drumsolo) 
-are Schrodinger’s divorcees. Andante erves chaos. Andante evades Faxes. Andante possibly evades Taxes (there is no 
-currency in the Core). Andante is your friend.
+Kelvin Andante is an player whose lore is increasingly self-referentially about how much lore ey have. Kelvin is a musician who frequently marries, divorces and remarries Kelvin Drumsolo. The pair have a band called Kelvin and the Kelvins known for experimental music about trivial disagreements. Meanwhile, Kelvin also has an elaborate backstory from a variety of contributors. Ey were born in a timeloop in Tolouse, France. Ey were eaten by the Hellmouth. Ey might just be the greatest Little League pitcher of all time. Ey have lived twelve different lives in twelve different realities and ey insist that eir moustache is completely real and that ey aren't in hiding from anyone. Ey're also divorced from eir own skeleton, who is an entirely separate individual and does stand-up comedy.
 
-In Strategy, Kelvin Andante is a backup backup pitcher in the shadows.
+Strategically, Kelvin Andante is a backup backup pitcher in the shadows. Andante also has an interesting batting statline that some members of the community want to experiment with.
 
 ---
 
