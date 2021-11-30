@@ -9,7 +9,7 @@ permalink: /core-lore/MAXIMUM
 <img src="../assets/maximumMechanicalMayhem.png" style="float: right; padding-left: 10px; padding-top: 25px"  width="250"
 alt="MAXIMUM Mechanical Mayhem Logo by ZweiHawke">
 
-**MAXIMUM** was a response to the Core Mechanics benefiting from two blessings which gave players the Maximalist modifier. In Season 14, Mild High won the Min-Maxing blessing which made Gia Holbrook a Maximalist. In Season 15 the Mechanics won the Sky's the Limit blessing which made the entire rotation Maximalists. 
+**MAXIMUM** was a response to the Core Mechanics benefiting from two blessings which gave players the Maximalist modifier. In Season 14, Mild High won the Min-Maxing blessing which made [Gia Holbrook](/players/gia-holbrook) a Maximalist. In Season 15 the Mechanics won the [Sky's the Limit blessing](/team-history/season15/#pitch-perfect) which made the entire rotation Maximalists. 
 
 **MAXIMUM** text is an all capitals black font with a teal outer glow, matching the colours of the Maximalist modifier.
 
