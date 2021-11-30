@@ -8,9 +8,9 @@ Augusto joined the Core Mechanics during the Season 21 Elections after a trade w
 exchange for PolkaDot Patterson. On Season 24 Day 51, Augusto retreated to the Shadows in exchange for [Jolene
 Willowtree](/players/jolene-willowtree).
 
-In Lore, Augusto Reddick is a fashionable boomer.
+Augusto Reddick is usually lored as a baby boomer with an unusual fashion sense. He is transmasculine, a career athlete, and someone who likes to explore unusual pitching techniques.
 
-In Strategy, Augusto Reddick is a backup pitcher.
+Strategically, Augusto Reddick is the current backup pitcher and Fax target.
 
 ---
 
