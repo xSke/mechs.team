@@ -4,8 +4,8 @@ module.exports = {
   base: "/",
   themeConfig:
       {
-          logo: "/assets/mechsHomeLogo.png",
-          logoDark: "/assets/mechsAwayLogo.png",
+          logo: "https://www.blaseball.wiki/images/thumb/6/68/COREMECHS.png/480px-COREMECHS.png",
+          logoDark: "https://www.blaseball.wiki/images/thumb/d/de/COREMECHSAWAY.png/480px-COREMECHSAWAY.png",
           navbar:
               [
                   {
