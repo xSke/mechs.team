@@ -9,6 +9,12 @@ module.exports = {
           navbar:
               [
                   {
+                      text: "Blaseball Guides",
+                      children: [
+                          "/guides/weather.md"
+                      ]
+                  },
+                  {
                       text: "Core Lore",
                       link: "/core-lore-index.md",
                       children: [
@@ -107,9 +113,16 @@ module.exports = {
                           link: "/index.md"
                       },
                       {
+                          text: "Blaseball Guides",
+                          children: [
+                              "/guides/weather.md"
+                          ]
+                      },
+                      {
                           text: "Core Lore",
                           link: "/core-lore-index.md"
                       }
+
                   ],
                   "/players/": [
                       {
